@@ -1,0 +1,7 @@
+[1]
+CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+PowerModels = "c36e90e8-916a-50a6-bd94-075b64ef4655"
+PowerModelsDistribution = "d7431456-977f-11e9-2de3-97ff7677985e"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"

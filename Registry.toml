@@ -4,4 +4,5 @@ repo = "https://github.com/munizrodrigo/LocalJuliaRegistry.git"
 description = "Local registry"
 
 [packages]
+41ccd83a-347b-449b-936f-192b657ea7d1 = { name = "PowerGrid", path = "P/PowerGrid" }
 f469ccb0-c07c-42c4-84e9-4124f3b4a9c2 = { name = "MathJuMPAccessories", path = "M/MathJuMPAccessories" }
