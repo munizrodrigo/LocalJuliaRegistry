@@ -1,0 +1,6 @@
+name = "Local"
+uuid = "c8ed3c95-d3bd-4968-a8a9-c776e53798cc"
+repo = "https://github.com/munizrodrigo/LocalJuliaRegistry.git"
+description = "Local registry"
+
+[packages]
