@@ -5,4 +5,5 @@ description = "Local registry"
 
 [packages]
 41ccd83a-347b-449b-936f-192b657ea7d1 = { name = "PowerGrid", path = "P/PowerGrid" }
+93aa04f8-87c9-478f-9b37-fb22e30c3e3e = { name = "DistributionOptimalPowerFlow", path = "D/DistributionOptimalPowerFlow" }
 f469ccb0-c07c-42c4-84e9-4124f3b4a9c2 = { name = "MathJuMPAccessories", path = "M/MathJuMPAccessories" }
