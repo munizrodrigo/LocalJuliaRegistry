@@ -17,3 +17,6 @@ SHOT_jll = "c1ab834c-c4a5-50f5-9156-8f0fe7758b0e"
 UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
+
+["1.0.6-1"]
+KNITRO = "67920dd8-b58e-52a8-8622-53c4cffbe346"
