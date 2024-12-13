@@ -18,6 +18,9 @@ UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
 
+["1.0.13-1"]
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
 ["1.0.6-1"]
 KNITRO = "67920dd8-b58e-52a8-8622-53c4cffbe346"
 
